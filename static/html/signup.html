@@ -47,9 +47,15 @@
 
 <div>
     <div class="login-form" style="margin: 50px auto; max-width: 500px;">
-        <h3 style="text-align: center; width: 100%; margin-bottom: 25px;">Log In</h3>
+        <h3 style="text-align: center; width: 100%; margin-bottom: 25px;">Sign Up</h3>
+        <div style="text-align: center; margin: 20px auto 10px auto;">
+            <span class="fui-user" style="font-size: 70px; background: rgba(0,0,0,0.1); padding: 20px 20px 20px 26px; text-align: center; margin: 10px auto;"></span>
+        </div>
+
+        <a class="btn btn-block btn-default" href="#" style="width: 200px; margin: 0 auto 10px auto;">Upload Image</a>
+
         <div class="form-group">
-            <input type="text" class="form-control login-field" value="" placeholder="Enter your name" id="login-name">
+            <input type="text" class="form-control login-field" value="" placeholder="Username" id="login-name">
             <label class="login-field-icon fui-user" for="login-name"></label>
         </div>
 
@@ -58,10 +64,13 @@
             <label class="login-field-icon fui-lock" for="login-pass"></label>
         </div>
 
-        <a class="btn btn-primary btn-lg btn-block" href="index.html">Log in</a>
-        <a class="btn btn-primary btn-lg btn-block btn-inverse" href="signup.html">Sign Up</a>
+        <div class="form-group">
+            <input type="password" class="form-control login-field" value="" placeholder="Email Address">
+            <label class="login-field-icon fui-lock"></label>
+        </div>
 
-        <a class="login-link" href="#">Lost your password?</a>
+        <a class="btn btn-primary btn-lg btn-block" href="#">Sign Up</a>
+        <a class="btn btn-primary btn-lg btn-block btn-inverse" href="login.html">Log In</a>
     </div>
 </div>
 <!-- jQuery (necessary for Flat UI's JavaScript plugins) -->
