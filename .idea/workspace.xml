@@ -2,400 +2,292 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b45c471-fdb2-4812-b133-2142154ba7d1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/css/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/css/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/css/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/css/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/glyphicons/flat-ui-icons-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/glyphicons/flat-ui-icons-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/glyphicons/flat-ui-icons-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-black.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-black.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-black.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-bolditalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-bolditalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-bolditalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-italic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/png/Book.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/png/Calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/png/Chat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/png/Clipboard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/png/Compas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/png/Gift-Box.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/png/Infinity-Loop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/png/Mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/png/Map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/png/Pensils.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/png/Pocket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/png/Retina-Ready.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/png/Toilet-Paper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/png/Watches.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/login/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/login/imac-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/login/imac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/tile/ribbon-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/tile/ribbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/js/vendor/video-js.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/demo/browser-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/demo/browser-author.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/demo/browser-pic-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/demo/browser-pic-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/demo/browser-pic-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/demo/browser-pic-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/demo/browser-pic-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/demo/browser-pic-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/demo/browser.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/demo/html-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/demo/logo-mask-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/demo/logo-mask.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/demo/video.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/example-image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/footer/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/getting-started/icomoon_import.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/img/video/poster.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/glyphicons/flat-ui-icons-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/glyphicons/flat-ui-icons-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/glyphicons/flat-ui-icons-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-black.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-black.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-black.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-bolditalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-bolditalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-bolditalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-italic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/png/Book.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/png/Calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/png/Chat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/png/Clipboard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/png/Compas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/png/Gift-Box.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/png/Infinity-Loop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/png/Mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/png/Map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/png/Pensils.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/png/Pocket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/png/Retina-Ready.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/png/Toilet-Paper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/png/Watches.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/login/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/login/imac-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/login/imac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/tile/ribbon-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/tile/ribbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/ISSUE_TEMPLATE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dist/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/grunt/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/grunt/bs-commonjs-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/grunt/bs-glyphicons-data-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/grunt/bs-lessdoc-parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/grunt/bs-raw-files-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/grunt/change-version.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/grunt/configBridge.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/grunt/npm-shrinkwrap.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/grunt/sauce_browsers.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/js/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/.csscomb.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/.csslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/jumbotron.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/background-variant.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/border-radius.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/center-block.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/clearfix.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/gradients.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/grid-framework.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/hide-text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/image.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/nav-divider.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/nav-vertical-align.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/opacity.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/progress-bar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/reset-filter.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/reset-text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/resize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/responsive-visibility.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/size.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/tab-focus.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/table-row.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/text-emphasis.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/text-overflow.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/mixins/vendor-prefixes.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/normalize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/responsive-embed.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/less/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/nuget/MyGet.ps1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/nuget/bootstrap.less.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/nuget/bootstrap.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/package.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/css/flat-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/css/flat-ui.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/css/flat-ui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/css/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/css/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/glyphicons/flat-ui-icons-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/glyphicons/selection.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-bold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-bolditalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-italic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/fonts/lato/lato-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/svg/book.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/svg/calendar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/svg/chat.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/svg/clipboard.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/svg/clocks.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/svg/compas.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/svg/gift-box.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/svg/loop.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/svg/mail.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/svg/map.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/svg/paper-bag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/svg/pencils.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/svg/retina.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/svg/ribbon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/img/icons/svg/toilet-paper.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/js/flat-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/js/flat-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/js/vendor/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/js/vendor/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/js/vendor/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/js/vendor/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/dist/js/vendor/video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/css/demo.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/css/docs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/css/docs.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/css/src/demo.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/css/src/docs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/css/src/prettyprint.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/js/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/assets/js/prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/components.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/dropdowns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/forms.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/navbar-fixed-top.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/navbar-static-top.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/navbars-with-elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/navbars.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/pagination.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/radiocheck.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/select.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/switches.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/tagsinput.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/thumbnails.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/tiles.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/todo-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/tooltips.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/typography.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/examples/vertical-slider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/getting-started.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/docs/template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/glyphicons/flat-ui-icons-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/glyphicons/selection.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-black.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-bold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-bolditalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-italic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/fonts/lato/lato-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/svg/book.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/svg/calendar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/svg/chat.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/svg/clipboard.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/svg/clocks.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/svg/compas.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/svg/gift-box.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/svg/loop.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/svg/mail.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/svg/map.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/svg/paper-bag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/svg/pencils.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/svg/retina.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/svg/ribbon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/img/icons/svg/toilet-paper.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/js/radiocheck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/flat-ui.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/background-clip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/background-variant.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/border-radius.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/center-block.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/clearfix.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/gradients.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/hide-text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/image.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/nav-divider.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/navbar-vertical-align.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/opacity.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/pallets.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/reset-filter.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/resize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/responsive-visibility.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/select.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/size.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/switches.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/tab-focus.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/text-emphasis.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/text-overflow.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/mixins/vendor-prefixes.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/footer.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/local-fonts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/login.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/palette.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/radiocheck.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/select.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/share.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/slider.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/switch.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/tagsinput.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/tiles.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/todo-list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/typeahead.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/modules/video.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/spaces.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/flat-ui/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Medium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Medium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Thin.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Thin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/fonts/roboto/Roboto-Thin.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Medium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Medium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Thin.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Thin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/fonts/roboto/Roboto-Thin.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/masonry-template/background1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/masonry-template/background2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/masonry-template/background3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/parallax-template/background1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/parallax-template/background2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/parallax-template/background3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/AUTHORS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/dist/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/dist/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/dist/jquery.slim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/dist/jquery.slim.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/dist/jquery.slim.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/external/sizzle/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/external/sizzle/dist/sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/external/sizzle/dist/sizzle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/external/sizzle/dist/sizzle.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/.eslintrc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/ajax/jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/ajax/load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/ajax/parseXML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/ajax/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/ajax/var/location.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/ajax/var/nonce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/ajax/var/rquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/ajax/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/attributes/attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/attributes/classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/attributes/prop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/attributes/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/attributes/val.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/core/DOMEval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/core/access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/core/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/core/nodeName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/core/parseHTML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/core/ready-no-deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/core/ready.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/core/readyException.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/core/stripAndCollapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/core/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/core/var/rsingleTag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/css/addGetHookIf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/css/adjustCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/css/curCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/css/showHide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/css/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/css/var/cssExpand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/css/var/getStyles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/css/var/isHiddenWithinTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/css/var/rmargin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/css/var/rnumnonpx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/css/var/swap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/data/Data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/data/var/acceptData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/data/var/dataPriv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/data/var/dataUser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/deferred/exceptionHook.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/dimensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/effects/Tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/effects/animatedSelector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/event/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/event/alias.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/event/focusin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/event/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/event/trigger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/exports/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/exports/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/manipulation/_evalUrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/manipulation/buildFragment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/manipulation/getAll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/manipulation/setGlobalEval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/manipulation/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/manipulation/var/rcheckableType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/manipulation/var/rscriptType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/manipulation/var/rtagName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/manipulation/wrapMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/queue/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/selector-native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/selector-sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/traversing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/traversing/findFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/traversing/var/dir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/traversing/var/rneedsContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/traversing/var/siblings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/ObjectFunctionString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/arr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/class2type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/document.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/documentElement.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/fnToString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/getProto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/hasOwn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/indexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/pnum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/push.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/rcssNum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/rnothtmlwhite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/slice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/var/toString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/jquery/src/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/bin/materialize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/bin/materialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/css/materialize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/css/materialize.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/js/materialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/dist/js/materialize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/extras/noUiSlider/nouislider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/extras/noUiSlider/nouislider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/extras/noUiSlider/nouislider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/cards.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/character_counter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/chips.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/collapsible.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/date_picker/picker.date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/date_picker/picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/hammer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/initial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/jquery.easing.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/jquery.hammer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/jquery.timeago.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/materialbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/parallax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/pushpin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/scrollFire.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/sideNav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/tapTarget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/toasts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/transitions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/velocity.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/js/waves.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/_style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_badges.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_cards.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_chips.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_collapsible.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_color.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_global.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_icons-material-design.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_materialbox.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_prefixer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_preloader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_pulse.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_roboto.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_sideNav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_slider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_table_of_contents.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_tabs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_tapTarget.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_toast.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_tooltip.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_transitions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/_waves.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/date_picker/_default.date.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/date_picker/_default.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/date_picker/_default.time.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/forms/_checkboxes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/forms/_file-input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/forms/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/forms/_input-fields.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/forms/_radio-buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/forms/_range.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/forms/_select.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/components/forms/_switches.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/sass/materialize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/masonry-template/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/masonry-template/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/masonry-template/js/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/masonry-template/js/masonry.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/parallax-template/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/parallax-template/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/parallax-template/js/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/starter-template/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/starter-template/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/templates/starter-template/js/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/tests/spec/autocomplete/autocompleteSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/tests/spec/cards/cardsSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/tests/spec/chips/chipsSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/tests/spec/collapsible/collapsibleSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/tests/spec/dropdown/dropdownSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/tests/spec/helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/tests/spec/materialbox/materialboxSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/tests/spec/scrollFire/scrollFireSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/tests/spec/select/selectSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/tests/spec/sideNav/sideNavSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/tests/spec/tabs/tabsSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/tests/spec/toast/toastSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/materialize/tests/spec/tooltip/tooltipSpec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/index.html" afterPath="$PROJECT_DIR$/static/html/index.html" />
     </list>
     <ignored path="steam_ui.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -419,8 +311,43 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="548">
+              <caret line="176" column="22" selection-start-line="176" selection-start-column="22" selection-end-line="176" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tabs.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/materialize/js/tabs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="swap.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/jquery/src/css/var/swap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -530,7 +457,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
+              <option name="myItemId" value="jquery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -544,7 +471,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="steam_ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="steam_ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="steam_ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="steam_ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -641,12 +612,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491112563319</updated>
-      <workItem from="1491112564674" duration="1084000" />
+      <workItem from="1491112564674" duration="4505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1084000" />
+    <option name="totallyTimeSpent" value="4505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -656,18 +627,18 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -710,11 +681,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/materialize/js/tabs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/jquery/src/css/var/swap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/materialize/dist/css/materialize.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="548">
+          <caret line="176" column="22" selection-start-line="176" selection-start-column="22" selection-end-line="176" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
