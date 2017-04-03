@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b45c471-fdb2-4812-b133-2142154ba7d1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/indexx.html" afterPath="$PROJECT_DIR$/static/html/indexx.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/my-rewards.html" afterPath="$PROJECT_DIR$/static/html/my-rewards.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/my-rewardss.html" afterPath="$PROJECT_DIR$/static/html/my-rewardss.html" />
     </list>
     <ignored path="steam_ui.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="indexx.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="indexx.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/html/indexx.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -132,8 +133,8 @@
       <file leaf-file-name="my-rewards.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/html/my-rewards.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="103" column="22" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
+            <state relative-caret-position="473">
+              <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -143,11 +144,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my-rewardss.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="my-rewardss.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/html/my-rewardss.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+            <state relative-caret-position="300">
+              <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -184,13 +185,13 @@
         <option value="$PROJECT_DIR$/static/html/login.html" />
         <option value="$PROJECT_DIR$/static/html/signup.html" />
         <option value="$PROJECT_DIR$/static/html/my-account.html" />
-        <option value="$PROJECT_DIR$/static/html/my-rewards.html" />
         <option value="$PROJECT_DIR$/static/html/game-detail.html" />
         <option value="$PROJECT_DIR$/static/html/index.html" />
         <option value="$PROJECT_DIR$/static/html/purchased.html" />
         <option value="$PROJECT_DIR$/static/html/purchasedd.html" />
-        <option value="$PROJECT_DIR$/static/html/my-rewardss.html" />
         <option value="$PROJECT_DIR$/static/html/indexx.html" />
+        <option value="$PROJECT_DIR$/static/html/my-rewards.html" />
+        <option value="$PROJECT_DIR$/static/html/my-rewardss.html" />
       </list>
     </option>
   </component>
@@ -370,12 +371,12 @@
       <option name="presentableId" value="Default" />
       <updated>1491112563319</updated>
       <workItem from="1491112564674" duration="13072000" />
-      <workItem from="1491183301393" duration="1960000" />
+      <workItem from="1491183301393" duration="2013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15032000" />
+    <option name="totallyTimeSpent" value="15085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -681,18 +682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/html/my-rewards.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="103" column="22" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
@@ -723,14 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/html/my-rewardss.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/html/indexx.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -757,6 +738,26 @@
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/html/my-rewards.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/html/my-rewardss.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
