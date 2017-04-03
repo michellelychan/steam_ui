@@ -11,7 +11,7 @@
     <!--<link href="../materialize/dist/css/materialize.min.css" rel="stylesheet">-->
 
     <link rel="shortcut icon" href="../flat-ui/dist/img/favicon.ico">
-
+    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
 
 </head>
 
@@ -60,13 +60,23 @@
         <div style="display: flex;">
             <div class="" style="max-width: 500px; margin: 10px;">
                 <div class="dropdown">
-                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                         Select Your Game Platform
                         <span class="caret"></span>
                     </button>
+                    <script>
+                        $(document).ready(function(){
+                            $( "#aW" ).click(function() {
+                                $('#dropdownMenu0').text('Windows');
+                            });
+                            $( "#aM" ).click(function() {
+                                $('#dropdownMenu0').text('Mac');
+                            });
+                        });
+                    </script>
                     <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-                        <li><a href="#">Windows</a></li>
-                        <li><a href="#">Mac</a></li>
+                        <li><a id="aW" href="#">Windows</a></li>
+                        <li><a id="aM" href="#">Mac</a></li>
                     </ul>
                 </div>
             </div>
@@ -77,11 +87,27 @@
                         Select No of Awards for Purchase
                         <span class="caret"></span>
                     </button>
+                    <script>
+                        $(document).ready(function(){
+                            $( "#a1" ).click(function() {
+                                $('#dropdownMenu1').text('1');
+                            });
+                            $( "#a2" ).click(function() {
+                                $('#dropdownMenu1').text('2');
+                            });
+                            $( "#a3" ).click(function() {
+                                $('#dropdownMenu1').text('3');
+                            });
+                            $( "#a4" ).click(function() {
+                                $('#dropdownMenu1').text('4');
+                            });
+                        });
+                    </script>
                     <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-                        <li><a href="#">1</a></li>
-                        <li><a href="#">2</a></li>
-                        <li><a href="#">3</a></li>
-                        <li><a href="#">4</a></li>
+                        <li><a id="a1" href="#">1</a></li>
+                        <li><a id="a2" href="#">2</a></li>
+                        <li><a id="a3" href="#">3</a></li>
+                        <li><a id="a4" href="#">4</a></li>
                     </ul>
                 </div>
             </div>
